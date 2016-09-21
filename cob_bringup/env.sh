@@ -13,4 +13,6 @@ else
     source /opt/ros/indigo/setup.bash
 fi
 
+export ROS_IP=`ip route get 1 | awk '{print $NF;exit}'`
+
 exec "$@"
