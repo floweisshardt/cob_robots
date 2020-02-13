@@ -51,7 +51,6 @@
   <exec_depend>cob_safety_controller</exec_depend> <!-- from cob_substitute -->
   <exec_depend>cob_scan_unifier</exec_depend>
   <exec_depend>cob_script_server</exec_depend>
-  <exec_depend>cob_sick_lms1xx</exec_depend>
   <exec_depend>cob_sick_s300</exec_depend>
   <exec_depend>cob_sound</exec_depend>
   <exec_depend>cob_teleop</exec_depend>
